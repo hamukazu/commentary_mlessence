@@ -9,4 +9,7 @@
 Creative Commons Attribution 4.0 International (CC BY)に従うものとします。
 
 ## 本文へのリンク
-（準備中）
+
+[PDFをダウンロード](https://github.com/hamukazu/commentary_mlessence/releases/download/20210119/comm_mle_20210119.pdf)
+
+（HTML版も用意したいですが、変換がうまく行かず保留中）
