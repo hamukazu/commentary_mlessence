@@ -13,3 +13,10 @@ Creative Commons Attribution 4.0 International (CC BY)に従うものとしま�
 [PDFをダウンロード](https://github.com/hamukazu/commentary_mlessence/releases/download/20210119/comm_mle_20210119.pdf)
 
 （HTML版も用意したいですが、変換がうまく行かず保留中）
+
+## コンパイルのしかた
+
+ソースコード（body.tex）からpdfファイルに変換するにはlualatexが必要で、以下のように入力します。
+```
+> lualatex body.pdf
+```
